@@ -1,0 +1,9 @@
+telebot
+yt-dlp
+requests
+speedtest-cli
+flask
+pillow
+numpy
+instaloader
+gunicorn
